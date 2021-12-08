@@ -19,7 +19,7 @@ def mr_x():
     time.sleep(3)
     print ("\033[1;32m3. \033[1;33mSilahkan join jika anda ingin bergabung dengan komunitas cyber kami\033[31m")
     time.sleep(3)
-    os.system("xdg-open https://chat.whatsapp.com/HftUxoNQPfvBeAZ4dJXILy")
+    os.system("xdg-open https://chat.whatsapp.com/C13bgsiasmWLwLFwFBFu0A")
     time.sleep(3)
     print ("\033[1;32m4. \033[1;33mTerimakasih Telah Bergabung Dengan komunitas kami\033[31m")
     time.sleep(3)
